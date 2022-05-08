@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqmeDsbCvZ20Gzr610kBg4c+vrFpog5RNvRA0TzdNuJvVZNqy4mZ0qKguVzASyASEUJDVIzboZGjoF3E9/q14Q==",
+  "success": true,
+  "projectFilePath": "D:\\прога\\сишарп\\Lab1\\Lab1\\Lab1\\Lab1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fedor\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
